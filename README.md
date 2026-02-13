@@ -2,12 +2,12 @@
 
 🎓 B.Tech Information Technology (Pre-final Year)  
 💻 Aspiring Software Developer | Data Analyst | ML Enthusiast  
-📍 India  
+📍 Pollachi, Coimbatore
 
-I am passionate about building practical, real-world solutions using Python, Web Technologies, and Data Analytics. I enjoy learning new technologies and continuously improving my problem-solving skills through hands-on projects.
+I am passionate about building practical, real-world solutions using Python, Web Technologies and Data Analytics. I enjoy learning new technologies and continuously improving my problem-solving skills through hands-on projects.
 
 🚀 About Me
-🔍 Interested in Data Analytics, Machine Learning, and Software Development  
+🔍 Interested in Data Analytics, Machine Learning and Software Development  
 🧠 Strong fundamentals in Python, SQL, HTML, CSS  
 📊 Actively learning Data Science & Analytics tools  
 🛠️ Love building projects that solve real problems  
