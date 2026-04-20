@@ -1,6 +1,6 @@
 👋 Hi, I’m Srinath A
 
-🎓 B.Tech Information Technology (Pre-final Year)  
+🎓 B.Tech Information Technology
 💻 Aspiring Software Developer | Data Analyst | ML Enthusiast  
 📍 Pollachi, Coimbatore
 
