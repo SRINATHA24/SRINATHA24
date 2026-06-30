@@ -8,7 +8,7 @@ I am passionate about building practical, real-world solutions using Python, Web
 
 🚀 About Me
 🔍 Interested in Data Analytics, Machine Learning and Software Development  
-🧠 Strong fundamentals in Python, SQL, HTML, CSS  
+🧠 Strong fundamentals in Python, SQL,NoSQL, JavaScript, HTML, CSS  
 📊 Actively learning Data Science & Analytics tools  
 🛠️ Love building projects that solve real problems  
 📈 Focused on improving skills for placements and industry readiness  
